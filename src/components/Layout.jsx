@@ -1,6 +1,5 @@
 import { Link, Outlet, useLocation } from "react-router-dom"
 import logo from "../img/logo.jpg"
-import Footer from "./Footer.jsx"
 
 const Layout = () => {
   const location = useLocation()
